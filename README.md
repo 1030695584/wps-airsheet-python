@@ -16,6 +16,12 @@
 
 ## 🚀 快速开始
 
+### 嵌入JS代码
+
+####  1. 引入 AirScript SDK
+![img.png](assets/img_2.png)
+![img.png](assets/img_3.png)
+
 ### Python 客户端
 
 #### 1. 安装依赖
@@ -311,7 +317,7 @@ print("批量处理完成！")
 详见项目目录结构：
 
 ```bash
-📦 wps_client
+📦 wps-airsheet-python
 ├── assets/                    # 图片与资源文件
 ├── javascript/                # JavaScript 版 API
 ├── python/                    # Python 客户端封装
